@@ -1,0 +1,60 @@
+{
+  "tableData": {
+    "tableHeader": [
+      {
+        "id": 1,
+        "name": "S No."
+      },
+      {
+        "id": 2,
+        "name": "Exam Name"
+      },
+      {
+        "id": 3,
+        "name": "Duration"
+      },
+      {
+        "id": 4,
+        "name": "Topic"
+      },
+      {
+        "id": 5,
+        "name": "Total Marks"
+      },
+      {
+        "id": 6,
+        "name": "Actions"
+      }
+    ],
+    "tableBody": [
+      {
+        "id": 1,
+        "name": "CS Mock Test",
+        "duration": "45 Minutes",
+        "topic": "Fundamentals",
+        "marks": 50
+      },
+      {
+        "id": 2,
+        "name": "AI Mock Test",
+        "duration": "30 Minutes",
+        "topic": "AI Evalutions",
+        "marks": 70
+      },
+      {
+        "id": 3,
+        "name": "C Programing Test",
+        "duration": "45 Minutes",
+        "topic": "C Structures",
+        "marks": 50
+      },
+      {
+        "id": 4,
+        "name": "OOPS Mock Test",
+        "duration": "45 Minutes",
+        "topic": "OOPS Concepts",
+        "marks": 100
+      }
+    ]
+  }
+}

@@ -18,10 +18,10 @@ export const customStyles = {
     height: "32px",
     padding: "0 6px",
   }),
-
   input: (provided, state) => ({
     ...provided,
     margin: "0px",
+    width : "15vh",
   }),
   indicatorSeparator: (state) => ({
     display: "none",
@@ -36,6 +36,7 @@ export const customStyles = {
     transition: "0.4s",
     height: "30px",
     fontSize: "12px",
+    zIndex : '0',
     padding: "2px 10px",
     borderBottom: "1px solid rgba(0, 0, 0, 0.125)",
     "&:hover": {
